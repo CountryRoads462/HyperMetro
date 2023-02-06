@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Three-dimensional boolean array
+- text: Java Object
+- text: Three-dimensional Java Object array
+- text: Java String
+- text: The code will not compile
+- text: Three-dimensional long array
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2936#comment
+status: Solved
+record: -1

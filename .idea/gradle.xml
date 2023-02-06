@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/HyperMetro/task" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/test-results" />
+            <option value="$PROJECT_DIR$/HyperMetro/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Create a callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Execute Callable objects" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Get the result" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/How many Callable objects are there" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/How many tasks are finished" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Submitting Callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/What is Callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/What is Future" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Count public methods" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Modifiers support" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Check for null" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Class type parameters" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Declaring a method" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/The first element" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Assign a new value to a field" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Invoking a method" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Reflection invocation" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Class object test" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Find the Method" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Retrieve class name" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/myClass variable" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
